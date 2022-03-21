@@ -1,0 +1,6 @@
+manifest {
+    homePage = 'http://github.com/robsyme/testproject'
+    description = 'Pipeline does this and that'
+    mainScript = 'main.nf'
+    version = '1.0.0'
+}
