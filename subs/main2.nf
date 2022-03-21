@@ -1,7 +1,7 @@
 nextflow.enable.dsl=2
 
 workflow Subworkflow {
-    println "Inside Subworkflow"
+    println "Inside Subworkflow. \$projectDir = $projectDir"
 }
 
 workflow {
